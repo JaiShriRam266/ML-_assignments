@@ -5,7 +5,7 @@
 import numpy as np 
 import pandas as pd 
 
-dataFrame = pd.read_csv("/content/Heart.csv") 
+dataFrame = pd.read_csv("Heart.csv") 
 
 dataFrame.shape  # shape 
 
